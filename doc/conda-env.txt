@@ -1,0 +1,10 @@
+how to create env using conda prompt ----
+--------
+conda create -n "spliffcv" python
+conda activate spliffcv
+conda deactivate
+
+cd D:\PROJECTS\Computer-vision\0.1
+-----
+
+jupyter notebook
